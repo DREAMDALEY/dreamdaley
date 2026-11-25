@@ -56,11 +56,11 @@ React, Next.js, TypeScript, Tailwind, Vite, React Native, Expo, Swift, Node.js, 
 ## Links
 
 - [ethandaley.dev](https://ethandaley.dev), portfolio
-- [dreamdaley.ca](https://dreamdaley.ca), about me, journal and updates
+- [dreamdaley.com](https://dreamdaley.com), about me, journal and updates
 - [tnaado.ca](https://tnaado.ca), TNAADO Inc.
 - [tnaado.com](https://tnaado.com), TNAADO Labs, Inc.
 
 ## Connect
 
-- ethan@dreamdaley.ca
+- ethan@tnaado.com
 - [LinkedIn](https://linkedin.com/in/ethan-daley-75a87b185)
